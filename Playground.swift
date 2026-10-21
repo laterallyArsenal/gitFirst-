@@ -6,7 +6,8 @@ let hello = "Hello"
     print(hello)
 let name = "Artem"
 
-let num = 112 
+let num = 112
+let nn = 12 
 
 
 
