@@ -5,11 +5,10 @@ import Playgrounds
 let hello = "Hello"
     print(hello)
 let name = "Artem"
-    for i in name.characters {
-        print(i)
-    }
-    
+
+let num = 112 
 
 
-    
+
+
 }
